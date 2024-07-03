@@ -1,0 +1,9 @@
+<h1>FullName=${Fullname}</h1>
+<h1>Course_fee=${Coursefee}</h1>
+<h1>H_marks=${H_marks}</h1>
+<h1>S_marks=${S_marks}</h1>
+<h1>Sb_marks=${Sb_marks}</h1>
+<h1>Total marks=${Totalmarks}</h1>
+<h1>percentage=${Percentage}</h1>
+<h1>grade=${grade}</h1>
+<h1>result=${result}</h1>
